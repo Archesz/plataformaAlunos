@@ -1,0 +1,254 @@
+{
+    "student": {
+        "id": "2023001",
+        "name": "João Vitor Souza de Alcantara",
+        "nickname": "Jovi",
+        "email": "jv86679@gmail.com",
+        "class": "Ciência da Computação",
+        "avatar": "https://example.com/avatar.jpg",
+        "lastAccess": "2023-11-15T08:30:00"
+    },
+    "mockExams": [
+        {
+            "id": "1",
+            "name": "Simulado Unicamp 1",
+            "date": "2024-05-12",
+            "score": 720,
+            "maxScore": 1000,
+            "subjects": [
+                {
+                    "name": "Matemática",
+                    "score": 850,
+                    "maxScore": 1000
+                },
+                {
+                    "name": "Ciências da Natureza",
+                    "score": 780,
+                    "maxScore": 1000
+                },
+                {
+                    "name": "Linguagens",
+                    "score": 690,
+                    "maxScore": 1000
+                },
+                {
+                    "name": "Ciências Humanas",
+                    "score": 650,
+                    "maxScore": 1000
+                },
+                {
+                    "name": "Redação",
+                    "score": 880,
+                    "maxScore": 1000
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Simulado Unicamp 2",
+            "date": "2024-06-12",
+            "score": 760,
+            "maxScore": 950,
+            "subjects": [
+                {
+                    "name": "Matemática",
+                    "score": 75,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Física",
+                    "score": 60,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Química",
+                    "score": 70,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Biologia",
+                    "score": 55,
+                    "maxScore": 90
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Simulado Unicamp 3",
+            "date": "2024-07-12",
+            "score": 780,
+            "maxScore": 900,
+            "subjects": [
+                {
+                    "name": "Matemática",
+                    "score": 75,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Física",
+                    "score": 60,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Química",
+                    "score": 70,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Biologia",
+                    "score": 55,
+                    "maxScore": 90
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Simulado Unicamp 4",
+            "date": "2024-08-12",
+            "score": 830,
+            "maxScore": 940,
+            "subjects": [
+                {
+                    "name": "Matemática",
+                    "score": 75,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Física",
+                    "score": 60,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Química",
+                    "score": 70,
+                    "maxScore": 90
+                },
+                {
+                    "name": "Biologia",
+                    "score": 55,
+                    "maxScore": 90
+                }
+            ]
+        }
+    ],
+    "studyPlan": {
+        "progress": 68,
+        "subjects": [
+          {
+            "name": "Matemática",
+            "completed": 75,
+            "topics": [
+              { "name": "Geometria Plana", "completed": true },
+              { "name": "Álgebra", "completed": true },
+              { "name": "Trigonometria", "completed": false },
+              { "name": "Probabilidade", "completed": true },
+              { "name": "Análise Combinatória", "completed": false },
+              { "name": "Funções", "completed": true }
+            ]
+          },
+          {
+            "name": "Física",
+            "completed": 60,
+            "topics": [
+              { "name": "Mecânica", "completed": true },
+              { "name": "Termodinâmica", "completed": false },
+              { "name": "Óptica", "completed": false },
+              { "name": "Eletromagnetismo", "completed": true },
+              { "name": "Ondulatória", "completed": false }
+            ]
+          },
+          {
+            "name": "Química",
+            "completed": 70,
+            "topics": [
+              { "name": "Química Geral", "completed": true },
+              { "name": "Físico-Química", "completed": true },
+              { "name": "Química Orgânica", "completed": false },
+              { "name": "Química Ambiental", "completed": false }
+            ]
+          },
+          {
+            "name": "Biologia",
+            "completed": 65,
+            "topics": [
+              { "name": "Citologia", "completed": true },
+              { "name": "Genética", "completed": true },
+              { "name": "Ecologia", "completed": false },
+              { "name": "Evolução", "completed": true },
+              { "name": "Fisiologia Humana", "completed": false }
+            ]
+          },
+          {
+            "name": "Geografia",
+            "completed": 80,
+            "topics": [
+              { "name": "Geografia Física", "completed": true },
+              { "name": "Geografia Humana", "completed": true },
+              { "name": "Geografia do Brasil", "completed": false },
+              { "name": "Geopolítica", "completed": true }
+            ]
+          },
+          {
+            "name": "História",
+            "completed": 55,
+            "topics": [
+              { "name": "História Geral", "completed": false },
+              { "name": "História do Brasil", "completed": true },
+              { "name": "História Contemporânea", "completed": false }
+            ]
+          },
+          {
+            "name": "Sociologia",
+            "completed": 40,
+            "topics": [
+              { "name": "Teorias Sociológicas", "completed": false },
+              { "name": "Sociologia Brasileira", "completed": true }
+            ]
+          },
+          {
+            "name": "Filosofia",
+            "completed": 45,
+            "topics": [
+              { "name": "Filosofia Antiga", "completed": true },
+              { "name": "Filosofia Moderna", "completed": false }
+            ]
+          },
+          {
+            "name": "Literatura",
+            "completed": 85,
+            "topics": [
+              { "name": "Literatura Brasileira", "completed": true },
+              { "name": "Literatura Portuguesa", "completed": true },
+              { "name": "Movimentos Literários", "completed": false }
+            ]
+          },
+          {
+            "name": "Gramática",
+            "completed": 75,
+            "topics": [
+              { "name": "Morfologia", "completed": true },
+              { "name": "Sintaxe", "completed": false },
+              { "name": "Semântica", "completed": true }
+            ]
+          },
+          {
+            "name": "Redação",
+            "completed": 90,
+            "topics": [
+              { "name": "Estrutura Dissertativa", "completed": true },
+              { "name": "Argumentação", "completed": true },
+              { "name": "Coesão e Coerência", "completed": true }
+            ]
+          }
+        ]
+    },
+    "upcomingEvents": [
+        {
+            "id": "1",
+            "title": "Simulado Inicial",
+            "date": "2025-04-13",
+            "time": "14:00",
+            "teacher": "Jovi"
+        }
+    ]
+}

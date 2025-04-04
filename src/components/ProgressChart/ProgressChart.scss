@@ -1,0 +1,93 @@
+// Variáveis (consistente com o StatsCard)
+$primary-color: #D32F2F;
+$secondary-color: #212121;
+$text-color: #333;
+$light-gray: #f5f5f5;
+$white: #ffffff;
+$border-color: #e0e0e0;
+
+.progress-chart {
+  background: $white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Inter', sans-serif;
+
+  .chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+
+    h3 {
+      color: $secondary-color;
+      margin: 0;
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+  }
+
+  .chart-legend {
+    display: flex;
+    gap: 1rem;
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      font-size: 0.85rem;
+      color: $text-color;
+
+      &::before {
+        content: '';
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border-radius: 2px;
+        margin-right: 6px;
+      }
+
+      &.your-score::before {
+        background-color: $primary-color;
+      }
+
+      &.max-score::before {
+        background-color: $secondary-color;
+      }
+    }
+  }
+
+  .chart-container {
+    height: 300px;
+    width: 100%;
+    position: relative;
+  }
+}
+
+// Responsividade
+@media (max-width: 768px) {
+  .progress-chart {
+    padding: 1rem;
+
+    .chart-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .chart-legend {
+      align-self: flex-end;
+    }
+
+    .chart-container {
+      height: 250px;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .progress-chart {
+    .chart-container {
+      height: 200px;
+    }
+  }
+}

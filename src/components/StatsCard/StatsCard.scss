@@ -1,0 +1,85 @@
+// Variables - você pode colocar em um arquivo separado _variables.scss depois
+$primary-color: #D32F2F;
+$secondary-color: #212121;
+$text-color: #333;
+$light-gray: #f5f5f5;
+$white: #ffffff;
+$border-color: #e0e0e0;
+
+.stats-card {
+  background: $white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  gap: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  &-icon {
+    font-size: 1.8rem;
+    color: $primary-color;
+    display: flex;
+    align-items: center;
+  }
+
+  &-content {
+    flex: 1;
+  }
+
+  &-title {
+    color: $secondary-color;
+    font-size: 1rem;
+    margin: 0 0 0.5rem 0;
+    font-weight: 600;
+  }
+
+  &-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: $primary-color;
+    margin-bottom: 0.5rem;
+  }
+
+  &-unit {
+    font-size: 1rem;
+    color: $text-color;
+    font-weight: 400;
+  }
+
+  &-progress {
+    height: 6px;
+    background-color: $light-gray;
+    border-radius: 3px;
+    margin: 0.8rem 0;
+    overflow: hidden;
+  }
+
+  &-progress-bar {
+    height: 100%;
+    background-color: $primary-color;
+    border-radius: 3px;
+    transition: width 0.5s ease;
+  }
+
+  &-percentage {
+    font-size: 0.9rem;
+    color: $text-color;
+    text-align: right;
+  }
+}
+
+// Responsividade
+@media (max-width: 768px) {
+  .stats-card {
+    padding: 1rem;
+    
+    &-value {
+      font-size: 1.5rem;
+    }
+  }
+}
