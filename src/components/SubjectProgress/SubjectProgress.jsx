@@ -3,7 +3,7 @@ import './SubjectProgress.scss';
 
 const SubjectProgress = ({ subjects }) => {
   const [currentPage, setCurrentPage] = useState(0);
-  const subjectsPerPage = 2;
+  const subjectsPerPage = 1;
   const totalPages = Math.ceil(subjects.length / subjectsPerPage);
 
   const paginatedSubjects = subjects.slice(

@@ -13,9 +13,6 @@ const Header = ({ student }) => {
           <p>{student.class}</p>
         </div>
       </div>
-      <div className="lastAccess">
-        Último acesso: {new Date(student.lastAccess).toLocaleDateString()}
-      </div>
     </header>
   );
 };

@@ -1,0 +1,947 @@
+[
+  {
+    "Curso": "Administração (N)",
+    "Paais": {
+      "0": 35,
+      "20": 33,
+      "40": 31,
+      "60": 29
+    },
+    "PPPI Paais": {
+      "0": 20,
+      "20": 23,
+      "40": 23,
+      "60": 14
+    }
+  },
+  {
+    "Curso": "Administração Pública (N)",
+    "Paais": {
+      "0": 33,
+      "20": 47,
+      "40": 30,
+      "60": 27
+    },
+    "PPPI Paais": {
+      "0": 22,
+      "20": 44,
+      "40": 10,
+      "60": 19
+    }
+  },
+  {
+    "Curso": "Arquitetura e Urbanismo (N)",
+    "Paais": {
+      "0": 51,
+      "20": 50,
+      "40": 46,
+      "60": 44
+    },
+    "PPPI Paais": {
+      "0": 45,
+      "20": 43,
+      "40": 40,
+      "60": 40
+    }
+  },
+  {
+    "Curso": "Artes Cênicas (I)",
+    "Paais": {
+      "0": 39,
+      "20": "Sem Vagas",
+      "40": 34,
+      "60": 32
+    },
+    "PPPI Paais": {
+      "0": 37,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 31
+    }
+  },
+  {
+    "Curso": "Artes Visuais (I)",
+    "Paais": {
+      "0": 44,
+      "20": 43,
+      "40": 40,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 39,
+      "20": "Sem Vagas",
+      "40": 34,
+      "60": 32
+    }
+  },
+  {
+    "Curso": "Ciência da Computação (N)",
+    "Paais": {
+      "0": 56,
+      "20": 57,
+      "40": 52,
+      "60": 50
+    },
+    "PPPI Paais": {
+      "0": 49,
+      "20": "Sem Vagas",
+      "40": 45,
+      "60": 42
+    }
+  },
+  {
+    "Curso": "Ciências Biológicas – Licenciatura (N)",
+    "Paais": {
+      "0": 38,
+      "20": 49,
+      "40": 34,
+      "60": 32
+    },
+    "PPPI Paais": {
+      "0": 33,
+      "20": "Sem Vagas",
+      "40": 29,
+      "60": 27
+    }
+  },
+  {
+    "Curso": "Ciências Biológicas (I)",
+    "Paais": {
+      "0": 47,
+      "20": 45,
+      "40": 44,
+      "60": 41
+    },
+    "PPPI Paais": {
+      "0": 42,
+      "20": 43,
+      "40": 38,
+      "60": 35
+    }
+  },
+  {
+    "Curso": "Ciências do Esporte (I)",
+    "Paais": {
+      "0": 34,
+      "20": 39,
+      "40": 33,
+      "60": 28
+    },
+    "PPPI Paais": {
+      "0": 18,
+      "20": "Sem Vagas",
+      "40": 23,
+      "60": 13
+    }
+  },
+  {
+    "Curso": "Ciências Econômicas (I)",
+    "Paais": {
+      "0": 50,
+      "20": 50,
+      "40": 46,
+      "60": 44
+    },
+    "PPPI Paais": {
+      "0": 41,
+      "20": "Sem Vagas",
+      "40": 37,
+      "60": 34
+    }
+  },
+  {
+    "Curso": "Ciências Econômicas (N)",
+    "Paais": {
+      "0": 46,
+      "20": 47,
+      "40": 42,
+      "60": 39
+    },
+    "PPPI Paais": {
+      "0": 44,
+      "20": "Sem Vagas",
+      "40": 51,
+      "60": 38
+    }
+  },
+  {
+    "Curso": "Ciências Sociais (I)",
+    "Paais": {
+      "0": 38,
+      "20": 41,
+      "40": 35,
+      "60": 33
+    },
+    "PPPI Paais": {
+      "0": 35,
+      "20": 47,
+      "40": 32,
+      "60": 29
+    }
+  },
+  {
+    "Curso": "Ciências Sociais (N)",
+    "Paais": {
+      "0": 32,
+      "20": 34,
+      "40": 28,
+      "60": 26
+    },
+    "PPPI Paais": {
+      "0": 39,
+      "20": 44,
+      "40": 31,
+      "60": 29
+    }
+  },
+  {
+    "Curso": "Comunicação Social-Midialogia (I)",
+    "Paais": {
+      "0": 47,
+      "20": 45,
+      "40": 42,
+      "60": 40
+    },
+    "PPPI Paais": {
+      "0": 45,
+      "20": "Sem Vagas",
+      "40": 41,
+      "60": 39
+    }
+  },
+  {
+    "Curso": "Dança (I)",
+    "Paais": {
+      "0": 29,
+      "20": "Sem Vagas",
+      "40": 28,
+      "60": 23
+    },
+    "PPPI Paais": {
+      "0": 31,
+      "20": "Sem Vagas",
+      "40": 27,
+      "60": 25
+    }
+  },
+  {
+    "Curso": "Educação Física (I)",
+    "Paais": {
+      "0": 37,
+      "20": 35,
+      "40": 33,
+      "60": 30
+    },
+    "PPPI Paais": {
+      "0": 35,
+      "20": "Sem Vagas",
+      "40": 31,
+      "60": 29
+    }
+  },
+  {
+    "Curso": "Educação Física (N)",
+    "Paais": {
+      "0": 33,
+      "20": 41,
+      "40": 29,
+      "60": 27
+    },
+    "PPPI Paais": {
+      "0": 34,
+      "20": 35,
+      "40": 30,
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Enfermagem (I)",
+    "Paais": {
+      "0": 41,
+      "20": 40,
+      "40": 37,
+      "60": 35
+    },
+    "PPPI Paais": {
+      "0": 40,
+      "20": "Sem Vagas",
+      "40": 35,
+      "60": 32
+    }
+  },
+  {
+    "Curso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.(I)",
+    "Paais": {
+      "0": 45,
+      "20": 43,
+      "40": 41,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 23,
+      "20": 42,
+      "40": 24,
+      "60": 20
+    }
+  },
+  {
+    "Curso": "Engenharia Agrícola (I)",
+    "Paais": {
+      "0": 33,
+      "20": 35,
+      "40": 29,
+      "60": 28
+    },
+    "PPPI Paais": {
+      "0": 15,
+      "20": "Sem Vagas",
+      "40": 21,
+      "60": 17
+    }
+  },
+  {
+    "Curso": "Engenharia Ambiental (N)",
+    "Paais": {
+      "0": 17,
+      "20": 26,
+      "40": 20,
+      "60": 19
+    },
+    "PPPI Paais": {
+      "0": 29,
+      "20": 36,
+      "40": 25,
+      "60": 19
+    }
+  },
+  {
+    "Curso": "Engenharia Civil (I)",
+    "Paais": {
+      "0": 45,
+      "20": 49,
+      "40": 42,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 35,
+      "20": "Sem Vagas",
+      "40": 29,
+      "60": 27
+    }
+  },
+  {
+    "Curso": "Engenharia de Alimentos (I)",
+    "Paais": {
+      "0": 24,
+      "20": 39,
+      "40": 21,
+      "60": 22
+    },
+    "PPPI Paais": {
+      "0": 19,
+      "20": "Sem Vagas",
+      "40": 20,
+      "60": 20
+    }
+  },
+  {
+    "Curso": "Engenharia de Alimentos (N)",
+    "Paais": {
+      "0": 30,
+      "20": "Sem Vagas",
+      "40": 25,
+      "60": 23
+    },
+    "PPPI Paais": {
+      "0": 28,
+      "20": 24,
+      "40": 36,
+      "60": 19
+    }
+  },
+  {
+    "Curso": "Engenharia de Computação (I)",
+    "Paais": {
+      "0": 57,
+      "20": 55,
+      "40": 53,
+      "60": 52
+    },
+    "PPPI Paais": {
+      "0": 45,
+      "20": 54,
+      "40": 42,
+      "60": 38
+    }
+  },
+  {
+    "Curso": "Engenharia de Controle e Automação (N)",
+    "Paais": {
+      "0": 45,
+      "20": 50,
+      "40": 41,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 38,
+      "20": 42,
+      "40": 34,
+      "60": 31
+    }
+  },
+  {
+    "Curso": "Engenharia de Manufatura (I)",
+    "Paais": {
+      "0": 16,
+      "20": 41,
+      "40": 22,
+      "60": 22
+    },
+    "PPPI Paais": {
+      "0": 48,
+      "20": 36,
+      "40": "Sem Vagas",
+      "60": 18
+    }
+  },
+  {
+    "Curso": "Engenharia de Produção (I)",
+    "Paais": {
+      "0": 48,
+      "20": 48,
+      "40": 44,
+      "60": 42
+    },
+    "PPPI Paais": {
+      "0": 29,
+      "20": 39,
+      "40": 38,
+      "60": 23
+    }
+  },
+  {
+    "Curso": "Engenharia de Telecomunicações (I)",
+    "Paais": {
+      "0": 21,
+      "20": 32,
+      "40": 31,
+      "60": 32
+    },
+    "PPPI Paais": {
+      "0": 31,
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 19
+    }
+  },
+  {
+    "Curso": "Engenharia de Transportes (N)",
+    "Paais": {
+      "0": 20,
+      "20": 15,
+      "40": 24,
+      "60": 26
+    },
+    "PPPI Paais": {
+      "0": "Sem Vagas",
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 25
+    }
+  },
+  {
+    "Curso": "Engenharia Elétrica (I)",
+    "Paais": {
+      "0": 49,
+      "20": "Sem Vagas",
+      "40": 44,
+      "60": 42
+    },
+    "PPPI Paais": {
+      "0": 30,
+      "20": 32,
+      "40": 30,
+      "60": 24
+    }
+  },
+  {
+    "Curso": "Engenharia Elétrica (N)",
+    "Paais": {
+      "0": 45,
+      "20": "Sem Vagas",
+      "40": 41,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 40,
+      "20": 43,
+      "40": 39,
+      "60": 31
+    }
+  },
+  {
+    "Curso": "Engenharia Mecânica (I)",
+    "Paais": {
+      "0": 47,
+      "20": 45,
+      "40": 43,
+      "60": 41
+    },
+    "PPPI Paais": {
+      "0": 31,
+      "20": 32,
+      "40": 27,
+      "60": 24
+    }
+  },
+  {
+    "Curso": "Engenharia Química (I)",
+    "Paais": {
+      "0": 50,
+      "20": 49,
+      "40": 46,
+      "60": 44
+    },
+    "PPPI Paais": {
+      "0": 37,
+      "20": 44,
+      "40": 32,
+      "60": 31
+    }
+  },
+  {
+    "Curso": "Engenharia Química (N)",
+    "Paais": {
+      "0": 43,
+      "20": 45,
+      "40": 41,
+      "60": 37
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": "Sem Vagas",
+      "40": 31,
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Estatística (I)",
+    "Paais": {
+      "0": 36,
+      "20": 42,
+      "40": 33,
+      "60": 31
+    },
+    "PPPI Paais": {
+      "0": 27,
+      "20": 28,
+      "40": 25,
+      "60": 26
+    }
+  },
+  {
+    "Curso": "Estudos Literários (I)",
+    "Paais": {
+      "0": 37,
+      "20": 44,
+      "40": 37,
+      "60": 31
+    },
+    "PPPI Paais": {
+      "0": 40,
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 18
+    }
+  },
+  {
+    "Curso": "Farmácia (I)",
+    "Paais": {
+      "0": 47,
+      "20": 49,
+      "40": 44,
+      "60": 40
+    },
+    "PPPI Paais": {
+      "0": 40,
+      "20": 40,
+      "40": 37,
+      "60": 34
+    }
+  },
+  {
+    "Curso": "Filosofia (I)",
+    "Paais": {
+      "0": 35,
+      "20": "Sem Vagas",
+      "40": 33,
+      "60": 30
+    },
+    "PPPI Paais": {
+      "0": 24,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 18
+    }
+  },
+  {
+    "Curso": "Física – Licenciatura (N)",
+    "Paais": {
+      "0": 29,
+      "20": "Sem Vagas",
+      "40": 24,
+      "60": 24
+    },
+    "PPPI Paais": {
+      "0": 30,
+      "20": "Sem Vagas",
+      "40": 30,
+      "60": 30
+    }
+  },
+  {
+    "Curso": "Fonoaudiologia (I)",
+    "Paais": {
+      "0": 41,
+      "20": 40,
+      "40": 37,
+      "60": 35
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": "Sem Vagas",
+      "40": 34,
+      "60": 29
+    }
+  },
+  {
+    "Curso": "Geografia (I)",
+    "Paais": {
+      "0": 38,
+      "20": 44,
+      "40": 33,
+      "60": 32
+    },
+    "PPPI Paais": {
+      "0": 31,
+      "20": 25,
+      "40": 31,
+      "60": 23
+    }
+  },
+  {
+    "Curso": "Geografia (N)",
+    "Paais": {
+      "0": 24,
+      "20": 38,
+      "40": 27,
+      "60": 18
+    },
+    "PPPI Paais": {
+      "0": 21,
+      "20": 18,
+      "40": 31,
+      "60": 18
+    }
+  },
+  {
+    "Curso": "Geologia (I)",
+    "Paais": {
+      "0": 31,
+      "20": "Sem Vagas",
+      "40": 29,
+      "60": 25
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": "Sem Vagas",
+      "40": 19,
+      "60": 20
+    }
+  },
+  {
+    "Curso": "História (I)",
+    "Paais": {
+      "0": 45,
+      "20": 46,
+      "40": 41,
+      "60": 39
+    },
+    "PPPI Paais": {
+      "0": 42,
+      "20": "Sem Vagas",
+      "40": 37,
+      "60": 34
+    }
+  },
+  {
+    "Curso": "Letras – Licenciatura (I)",
+    "Paais": {
+      "0": 39,
+      "20": 38,
+      "40": 34,
+      "60": 32
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 29
+    }
+  },
+  {
+    "Curso": "Letras – Licenciatura (N)",
+    "Paais": {
+      "0": 39,
+      "20": 45,
+      "40": 35,
+      "60": 33
+    },
+    "PPPI Paais": {
+      "0": 37,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 30
+    }
+  },
+  {
+    "Curso": "Licenciatura Integrada Química/Física (N)",
+    "Paais": {
+      "0": 32,
+      "20": 56,
+      "40": 34,
+      "60": 27
+    },
+    "PPPI Paais": {
+      "0": 29,
+      "20": "Sem Vagas",
+      "40": 29,
+      "60": 21
+    }
+  },
+  {
+    "Curso": "Linguística (I)",
+    "Paais": {
+      "0": 34,
+      "20": 47,
+      "40": 43,
+      "60": 31
+    },
+    "PPPI Paais": {
+      "0": 23,
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 41
+    }
+  },
+  {
+    "Curso": "Matemática – Licenciatura (N)",
+    "Paais": {
+      "0": 18,
+      "20": 18,
+      "40": 24,
+      "60": 20
+    },
+    "PPPI Paais": {
+      "0": 32,
+      "20": 32,
+      "40": 21,
+      "60": 19
+    }
+  },
+  {
+    "Curso": "Medicina (I)",
+    "Paais": {
+      "0": 62,
+      "20": 60,
+      "40": 58,
+      "60": 56
+    },
+    "PPPI Paais": {
+      "0": 57,
+      "20": 55,
+      "40": 52,
+      "60": 50
+    }
+  },
+  {
+    "Curso": "Música: Composição (I)",
+    "Paais": {
+      "0": 33,
+      "20": "Sem Vagas",
+      "40": 38,
+      "60": "Sem Vagas"
+    },
+    "PPPI Paais": {
+      "0": "Sem Vagas",
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 36
+    }
+  },
+  {
+    "Curso": "Música: Licenciatura (I)",
+    "Paais": {
+      "0": 27,
+      "20": "Sem Vagas",
+      "40": 37,
+      "60": 25
+    },
+    "PPPI Paais": {
+      "0": 18,
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Música: Regência (I)",
+    "Paais": {
+      "0": 41,
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": "Sem Vagas"
+    },
+    "PPPI Paais": {
+      "0": "Sem Vagas",
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": "Sem Vagas"
+    }
+  },
+  {
+    "Curso": "Nutrição (I)",
+    "Paais": {
+      "0": 41,
+      "20": "Sem Vagas",
+      "40": 37,
+      "60": 35
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": "Sem Vagas",
+      "40": 31,
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Odontologia (I)",
+    "Paais": {
+      "0": 42,
+      "20": 41,
+      "40": 38,
+      "60": 36
+    },
+    "PPPI Paais": {
+      "0": 34,
+      "20": 34,
+      "40": 34,
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Pedagogia – Licenciatura (I)",
+    "Paais": {
+      "0": 35,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 28
+    },
+    "PPPI Paais": {
+      "0": 29,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 22
+    }
+  },
+  {
+    "Curso": "Pedagogia – Licenciatura (N)",
+    "Paais": {
+      "0": 35,
+      "20": 36,
+      "40": 33,
+      "60": 28
+    },
+    "PPPI Paais": {
+      "0": 31,
+      "20": "Sem Vagas",
+      "40": 27,
+      "60": 24
+    }
+  },
+  {
+    "Curso": "Química (I)",
+    "Paais": {
+      "0": 40,
+      "20": 39,
+      "40": 36,
+      "60": 34
+    },
+    "PPPI Paais": {
+      "0": 32,
+      "20": 34,
+      "40": 36,
+      "60": 23
+    }
+  },
+  {
+    "Curso": "Química Tecnológica (N)",
+    "Paais": {
+      "0": 34,
+      "20": "Sem Vagas",
+      "40": 30,
+      "60": 28
+    },
+    "PPPI Paais": {
+      "0": 28,
+      "20": 32,
+      "40": "Sem Vagas",
+      "60": 23
+    }
+  },
+  {
+    "Curso": "Sistemas de Informação (I)",
+    "Paais": {
+      "0": 44,
+      "20": 44,
+      "40": 40,
+      "60": 38
+    },
+    "PPPI Paais": {
+      "0": 36,
+      "20": 33,
+      "40": 31,
+      "60": 28
+    }
+  },
+  {
+    "Curso": "Tecnologia em Análise e Des. de Sist. (N)",
+    "Paais": {
+      "0": 42,
+      "20": 44,
+      "40": 38,
+      "60": 35
+    },
+    "PPPI Paais": {
+      "0": 39,
+      "20": "Sem Vagas",
+      "40": 35,
+      "60": 32
+    }
+  },
+  {
+    "Curso": "Tecnologia em Saneamento Ambiental (N)",
+    "Paais": {
+      "0": 21,
+      "20": "Sem Vagas",
+      "40": 32,
+      "60": 24
+    },
+    "PPPI Paais": {
+      "0": "Sem Vagas",
+      "20": "Sem Vagas",
+      "40": "Sem Vagas",
+      "60": 19
+    }
+  }
+]

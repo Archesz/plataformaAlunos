@@ -63,11 +63,6 @@ const RedacaoStatsCard = ({
         </div>
       </div>
 
-      <div className="card-footer">
-        <button className="details-button">
-          <i className="fas fa-chart-bar"></i> Ver detalhes completos
-        </button>
-      </div>
     </div>
   );
 };

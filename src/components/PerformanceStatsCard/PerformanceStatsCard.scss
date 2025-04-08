@@ -6,6 +6,7 @@ $warning-color: #FFC107;
 $text-color: #333;
 $light-gray: #f5f5f5;
 $white: #ffffff;
+$border-color: #333;
 
 .performance-stats-card {
   background: $white;
@@ -13,8 +14,7 @@ $white: #ffffff;
   padding: 1.5rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   font-family: 'Inter', sans-serif;
-  max-width: 500px;
-  margin: 0 auto;
+  width: 100%;
 }
 
 .card-header {
@@ -181,5 +181,85 @@ $white: #ffffff;
   
   .score-value {
     font-size: 1.5rem;
+  }
+}
+
+.filter-section {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: rgba($light-gray, 0.5);
+  border-radius: 8px;
+}
+
+.filter-group {
+  margin-bottom: 1rem;
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+  
+  label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: $secondary-color;
+    font-weight: 500;
+    
+    svg {
+      color: $primary-color;
+    }
+  }
+  
+  select {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    background-color: $white;
+    transition: border-color 0.2s;
+    
+    &:focus {
+      outline: none;
+      border-color: $primary-color;
+    }
+  }
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  font-weight: 500;
+  color: $text-color;
+}
+
+@media (max-width: 480px) {
+  .filter-section {
+    padding: 0.75rem;
+  }
+  
+  .filter-group {
+    margin-bottom: 0.75rem;
+  }
+}
+
+.filter-row {
+  display: flex;
+  gap: 1rem;
+  
+  .filter-group {
+    flex: 1;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .filter-row {
+    flex-direction: column;
+    gap: 0.75rem;
   }
 }

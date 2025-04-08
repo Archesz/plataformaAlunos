@@ -16,7 +16,7 @@ $border-color: #e0e0e0;
 
 .dashboardContent {
   display: grid;
-  grid-template-columns: 1fr 1.5fr;
+  grid-template-columns: 1.5fr 1fr;
   gap: 1.5rem;
   padding: 1.5rem;
   max-width: 1400px;
@@ -40,6 +40,12 @@ $border-color: #e0e0e0;
   border-radius: 8px;
   padding: 1.5rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
 
 // Responsividade

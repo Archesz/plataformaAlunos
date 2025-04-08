@@ -9,127 +9,7 @@
         "lastAccess": "2023-11-15T08:30:00"
     },
     "mockExams": [
-        {
-            "id": "1",
-            "name": "Simulado Unicamp 1",
-            "date": "2024-05-12",
-            "score": 720,
-            "maxScore": 1000,
-            "subjects": [
-                {
-                    "name": "Matemática",
-                    "score": 850,
-                    "maxScore": 1000
-                },
-                {
-                    "name": "Ciências da Natureza",
-                    "score": 780,
-                    "maxScore": 1000
-                },
-                {
-                    "name": "Linguagens",
-                    "score": 690,
-                    "maxScore": 1000
-                },
-                {
-                    "name": "Ciências Humanas",
-                    "score": 650,
-                    "maxScore": 1000
-                },
-                {
-                    "name": "Redação",
-                    "score": 880,
-                    "maxScore": 1000
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "name": "Simulado Unicamp 2",
-            "date": "2024-06-12",
-            "score": 760,
-            "maxScore": 950,
-            "subjects": [
-                {
-                    "name": "Matemática",
-                    "score": 75,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Física",
-                    "score": 60,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Química",
-                    "score": 70,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Biologia",
-                    "score": 55,
-                    "maxScore": 90
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "name": "Simulado Unicamp 3",
-            "date": "2024-07-12",
-            "score": 780,
-            "maxScore": 900,
-            "subjects": [
-                {
-                    "name": "Matemática",
-                    "score": 75,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Física",
-                    "score": 60,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Química",
-                    "score": 70,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Biologia",
-                    "score": 55,
-                    "maxScore": 90
-                }
-            ]
-        },
-        {
-            "id": "4",
-            "name": "Simulado Unicamp 4",
-            "date": "2024-08-12",
-            "score": 830,
-            "maxScore": 940,
-            "subjects": [
-                {
-                    "name": "Matemática",
-                    "score": 75,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Física",
-                    "score": 60,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Química",
-                    "score": 70,
-                    "maxScore": 90
-                },
-                {
-                    "name": "Biologia",
-                    "score": 55,
-                    "maxScore": 90
-                }
-            ]
-        }
+
     ],
     "studyPlan": {
         "progress": 68,
@@ -249,6 +129,12 @@
             "date": "2025-04-13",
             "time": "14:00",
             "teacher": "Jovi"
+        },
+        {
+          "id": "2",
+          "title": "Encerraemnto Inscrição FATEC",
+          "date": "2025-04-17",
+          "time": "14:00"
         }
     ]
 }

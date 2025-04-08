@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from '../styles/login.scss';
+import '../styles/login.scss';
 import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
@@ -22,7 +22,7 @@ const Login = () => {
   return (
     <div className="loginContainer">
       <div className="loginCard">
-        <div className="header">
+        <div className="header-login">
           <h1>Cursinho Vestibular</h1>
           <p>Prepare-se para o seu futuro</p>
         </div>
